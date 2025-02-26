@@ -1,4 +1,4 @@
-# helloworld
+# 随机抽取telemgram特定频道中的图片
 
 AstrBot 插件模板
 
